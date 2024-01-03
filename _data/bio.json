@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Muskan Sharma",
     "label": "Student",
     "picture": "https://github.com/muskanshar.png",
     "email": "sharmamuskanofficial@gmail.com",
@@ -8,51 +8,46 @@
     "summary": "I am studying for a B.E in Computer Science at the  Chandigarh University . I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "160047", "city": " Chandigarh ", "countryCode": "India", "State": "Chandigarh " },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "muskanshar", "url": "http://github.com/muskanshar" },
+      { "network": "linkedin", "username": "Muskan sharma", "url": "http://linkedin.com/in/changeme" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Cloud Computing" },
+    { "name": "Data Analytics " },
+    { "name": "Writing" },
+    { "name": "Cyber" },
+    { "name": "Research" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" , "python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "institution": " Chandigarh University,Punjab,India ",
+      "area": "Computer Science (expected Spring, 2023)",
+      "studyType": "B.E.",
+      
     }
   ],
   "work": [
     {
       "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "position": "Data Analyst",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023-04-01",
+      "endDate": "2023-07-01",
+      "summary": "analysed the startups and helped them grow",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee the upcoming startups",
+        "Drive, design and build a friendly community that helps boost startups"
       ]
     },
     {
