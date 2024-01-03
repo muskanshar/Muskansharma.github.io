@@ -2,12 +2,11 @@
   "basics": {
     "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/muskanshar.png",
+    "email": "sharmamuskanofficial@gmail.com",
+    "website": "https://muskanshar.github.io",
+    "summary": "I am studying for a B.E in Computer Science at the  Chandigarh University . I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "160047", "city": " Chandigarh ", "countryCode": "India", "State": "Chandigarh " },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
