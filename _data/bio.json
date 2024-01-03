@@ -9,7 +9,7 @@
     "location": { "address": "", "postalCode": "160047", "city": " Chandigarh ", "countryCode": "India", "State": "Chandigarh " },
     "profiles": [
       { "network": "github", "username": "muskanshar", "url": "http://github.com/muskanshar" },
-      { "network": "linkedin", "username": "Muskan sharma", "url": "http://linkedin.com/in/changeme" },
+      { "network": "linkedin", "username": "Muskan sharma", "url": "http://linkedin.com/in/changeme" }
     ]
   },
   "interests": [
@@ -22,18 +22,18 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" , "python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
     }
   ],
   "education": [
     {
       "institution": " Chandigarh University,Punjab,India ",
       "area": "Computer Science (expected Spring, 2023)",
-      "studyType": "B.E.",
+      "studyType": "B.E."
       
     }
   ],
